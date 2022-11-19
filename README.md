@@ -19,9 +19,9 @@
 <img align="right" height="280" width="280" alt="GIF" src="https://tse3.mm.bing.net/th?id=OIP.LEH5tUEQReWe8Iu-UEV3PgHaFj&pid=Api&P=0" />
 
 ## **My Skills 🚀**
-![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=183A61)
-![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
+![Cpp](https://img.shields.io/badge/Cpp-333333?style=flat&logo=Cpp&logoColor=white)
+![Python](https://img.shields.io/badge/python-333333?style=flat&logo=python&logoColor=white&color=183A61)
+![C](https://img.shields.io/badge/c-333333?style=flat&logo=c&logoColor=white&color=A8B9CC)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -30,7 +30,7 @@
 ## **Frameworks 🚀**
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Express.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express.js)
 
 
 ## **Libraries 🚀**
