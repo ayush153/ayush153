@@ -2,4 +2,4 @@
 <img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
 </div>
 
-# <p align="center"> <img src="https://puppyarena.wixsite.com/theanimalfiasco/single-post/2018/05/23/Hi" width="80" height="85" />I’m  Ayush.. </p>
+# <p align="center"> <img src="https://media1.giphy.com/media/26ufn24Onjz8w7NxS/giphy.gif?cid=dc79c3575b05ec2b566341656317d391" width="80" height="85" />I’m  Ayush.. </p>
