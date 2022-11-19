@@ -45,3 +45,37 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=Jupyter)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
+
+
+### ⚙️ &nbsp;GitHub Analytics
+<details>
+<table style="width:100%">
+  <tr>
+    <td> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=ayush153&show_icons=true&theme=tokyonight&count_private=false" alt="ayush153" /> &nbsp; &nbsp; &nbsp;</td>
+   &nbsp; &nbsp; <td> &nbsp; &nbsp; &nbsp; <img width="460px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush153&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"> &nbsp; &nbsp; &nbsp;
+</td> 
+
+  </tr>
+</table>
+
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue) -->
+
+<table style="width:100%">
+  <tr>
+        <td> <img src="https://activity-graph.herokuapp.com/graph?username=ayush153&theme=github"> </td>
+  </tr>
+</table>
+<br>
+<!-- *** -->
+
+<!-- **⚙🏆 &nbsp;Trophies**
+<br> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohits05&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy) 
+</details>
+<hr>
+<!-- <br> -->
+
+[![@rohits05's Holopin board](https://holopin.me/ayush_17)](https://holopin.io/@ayush_17)
+<div align="center">
+<hr>
+  </div>
