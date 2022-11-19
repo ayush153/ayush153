@@ -30,8 +30,7 @@
 ## **Frameworks 🚀**
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express.js)
-
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
 
 ## **Libraries 🚀**
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
