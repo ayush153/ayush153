@@ -9,3 +9,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&color=4FF7CF&lines=Welcome+to+my+profile+%F0%9F%A4%97%F0%9F%A4%97;)](https://git.io/typing-svg)
 
+- 📚 I'm a third year undergraduate student in Computer Science department 🎓 in [MCKVIE, Liluah](http://www.mckvie.edu.in/).
+- 👨‍💻 I am 3 star at CodeChef,2.5 star at LeetCode.
+- 👀 I’m interested in Full Stack Web Development, Python, Machine Learning, Competetive Coding.
+- 📖 I’m currently learning Full Stack Web Development.
+
+<br />
