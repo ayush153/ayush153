@@ -15,3 +15,5 @@
 - 📖 I’m currently learning Full Stack Web Development.
 
 <br />
+
+<img align="right" height="280" width="280" alt="GIF" src="https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
