@@ -17,3 +17,36 @@
 <br />
 
 <img align="right" height="280" width="280" alt="GIF" src="https://tse3.mm.bing.net/th?id=OIP.LEH5tUEQReWe8Iu-UEV3PgHaFj&pid=Api&P=0" />
+
+**🛠 &nbsp;Tech Stack**
+
+- Languages: &nbsp;
+  ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=183A61)
+  ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+- Frameworks: &nbsp;
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+<!--   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js) -->
+
+<!-- - Databases:  &nbsp;
+  ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
+  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb)
+  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql) -->
+- Libraries: &nbsp;
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
+<!--   ![Next](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=nextjs)  -->
+
+- IDEs: &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=FFFF00)
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=Jupyter)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
+
+<br>
