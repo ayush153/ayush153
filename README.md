@@ -19,9 +19,9 @@
 <img align="right" height="280" width="280" alt="GIF" src="https://tse3.mm.bing.net/th?id=OIP.LEH5tUEQReWe8Iu-UEV3PgHaFj&pid=Api&P=0" />
 
 ## **My Skills 🚀**
-![Cpp](https://img.shields.io/badge/Cpp-333333?style=flat&logo=Cpp)
+![Cpp](https://img.shields.io/badge/Cpp-333333?style=flat&logo=Cpp&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/python-333333?style=flat&logo=python)
-![C](https://img.shields.io/badge/c-333333?style=flat&logo=c)
+![C](https://img.shields.io/badge/c-333333?style=flat&logo=c&logoColor=007ACC)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
